@@ -1,1 +1,2 @@
-# snap-dry-principal
+# DRY (Don't Repeat Yourself) Principal
+
